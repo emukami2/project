@@ -1,5 +1,5 @@
 # PROJECT:
-microsoft sees all big companies creating original video content and they want to get in on the fun.They have decide to create a new movie studio but they dont know anything about creating movies. you are
+Microsoft sees all big companies creating original video content and they want to get in on the fun.They have decide to create a new movie studio but they dont know anything about creating movies. you are
 charged with exploring what types of films are currently doing the best at the box office.you must then translate those findings into actionable insights that the head of microsoft's new movie studio can use to help
 decide what type of films to create.
 # Introduction:
@@ -26,16 +26,16 @@ After that i formulated the first question and its was about calculating the rev
 from there i used data visualization by using a scatter graph to show the relationship between release date and rating. the last question was counting the number of ratings.
   -from the above question , i was able to draw conclusion like , how release dates affect ratings.
   # question two:
-from the second question, i used movies_csv_df to answer the following questions: movie with the highest popularity,its title and genre. The second question was about printing the column vote_count and title.
+From the second question, i used movies_csv_df to answer the following questions: movie with the highest popularity,its title and genre. The second question was about printing the column vote_count and title.
 to check the movie with the highest vote_count. from there i created a bar graph to show the title with the highest count and another graph showing which title had the highest popularity.the last bit was 
 using genre_ids after genre mapping to show which genre has most movies. 
 -from the above question i was able to answer which titles had a big popularity microsoft would consider while choosin a title.
   # question three:
-the last question i used movie_budgetcsv_df to calculate the profit margin using worldwide_gross - production_budget .from there i listed 25movies with high profit margin. I  then drew a scatter graph 
+The last question i used movie_budgetcsv_df to calculate the profit margin using worldwide_gross - production_budget .from there i listed 25movies with high profit margin. I  then drew a scatter graph 
 to show the relationship between budget and profit and used a red line to show correlation. finally i finalised with a bar graph showing the relationship between profit and release date.
 
 # Results:
-from the results, i was able to identify factors that had a major impact on the movie sales,they included:the popularity of the title, the publisher given the mandate and release date.
+From the results, i was able to identify factors that had a major impact on the movie sales,they included:the popularity of the title, the publisher given the mandate and release date.
 I also identified that the more you spend on budgeting the higher the likelihood of a big  profit margin.
 The genre_ids did not yield ,a big impact as expected because they were in interger form and once i converted them using genre mapping some belonged to more than one genre,majority actually, making classification 
 a challenging task.
@@ -59,5 +59,5 @@ having more than one genre,it makes it difficult in categorization. Also constan
 accurate results.
 
 # Conclusion:
-it was a great exprience,analyzing data for microsoft. i learnt alot. Thank you!
+It was a great exprience,analyzing data for microsoft. i learnt alot. Thank you!
 
